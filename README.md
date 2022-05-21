@@ -2,7 +2,7 @@
 
 <div align="center"><h1> 📑 Sobre mim </h1></div>
 
-<p>Olá, meu nome é Matheus, tenho 19 anos e atualmente estou cursando ADS (Análise e desenvolvimento de sistemas). Possuo experiência com atendimento ao Público, além de conhecimentos básicos em HTML, CSS, JS e lógica de programação que, nesse aspecto, seria voltadas para o desenvolvimento Web (Front-End).</p>
+<p>Olá, meu nome é Matheus, tenho 19 anos e atualmente estou cursando <strong>ADS (Análise e desenvolvimento de sistemas)</strong>. Possuo experiência com atendimento ao Público, além de conhecimentos básicos em <strong>HTML, CSS, JS</strong> e <strong>lógica de programação</strong> que, nesse aspecto, seria voltadas para o desenvolvimento Web ,<strong>(Front-End)</strong>.</p>
 
 <div align="center">
   <a href="(https://github.com/MatheusFelipeRuiz)">
@@ -13,10 +13,10 @@
   <div align="center"><h2>📚🖥 Hard Skills: </h2></div>
 
   <div style="display: inline_block"; align="center">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> HTML
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> CSS
-   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> JavaScript
-  <img  align ="center" alt="Github" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"> Github </div><br>
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <strong> HTML</strong>
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <strong>CSS</strong>
+   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <strong>JavaScript</strong>
+  <img  align ="center" alt="Github" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"> <strong>Github</strong> </div><br>
                                                                                                                                         
   
 <div align="center"><h2> 📱 Contato: </h1></div>
