@@ -2,7 +2,7 @@
 
 <div align="center"><h1> 📑 Sobre mim </h1></div>
 
-<p>Olá, meu nome é Matheus, tenho 19 anos e atualmente estou cursando <strong>ADS (Análise e desenvolvimento de sistemas)</strong>. Possuo experiência com atendimento ao Público, além de conhecimentos básicos em <strong>HTML, CSS, JS</strong> e <strong>lógica de programação</strong> que, nesse aspecto, seriam voltados para o desenvolvimento Web ,<strong>(Front-End)</strong>.</p>
+<p>Olá, meu nome é Matheus, tenho 19 anos e atualmente estou cursando <strong>ADS (Análise e desenvolvimento de sistemas)</strong>. Possuo experiência com atendimento ao Público, além de conhecimentos básicos em <strong>HTML, CSS, JS</strong> e <strong>lógica de programação</strong> que, nesse aspecto, seriam voltados para o desenvolvimento Web <strong>(Front-End)</strong>.</p>
 
 <div align="center">
   <a href="(https://github.com/MatheusFelipeRuiz)">
